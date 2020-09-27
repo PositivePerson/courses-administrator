@@ -1,7 +1,7 @@
 
 ## App manages few pages...
 
-all is about dealing with courses being added with use of React
+...all is about dealing with courses being added with use of React:)
 
 
 
